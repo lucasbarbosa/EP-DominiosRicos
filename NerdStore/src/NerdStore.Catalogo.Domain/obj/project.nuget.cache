@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dapo5qr6u9w7KGV/m6JOyWRB29IM45gXEoPTGhHnq1OLoUAFD+8iLVwhxt6VdihlnihGUbRdDakPaEBKSTbc0A==",
+  "success": true,
+  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
