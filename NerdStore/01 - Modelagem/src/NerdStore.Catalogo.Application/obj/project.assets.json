@@ -253,11 +253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+      "projectUniqueName": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
       "projectName": "NerdStore.Catalogo.Application",
-      "projectPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+      "projectPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
       "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-      "outputPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Application\\obj\\",
+      "outputPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -278,8 +278,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
-              "projectPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
+            "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj": {
+              "projectPath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj"
             }
           }
         }

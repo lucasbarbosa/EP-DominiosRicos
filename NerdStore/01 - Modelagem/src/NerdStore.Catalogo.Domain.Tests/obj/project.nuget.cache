@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZ7mZK+/YU5X0nG9f5A12G/URP7l5G96oYoXZorB+3XyWJZBWf4G9NldWXEVaAWB0HOIwrP3EV31rZFe0mq0EA==",
+  "dgSpecHash": "g8VtiOCN3u4I1WSntI/Wnf5JHeL4vGTi9z7BS/G8cEA++pl2d467Wp30QPDjz+7kSE9FOPihVLlyHtNogfIITA==",
   "success": true,
-  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
+  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

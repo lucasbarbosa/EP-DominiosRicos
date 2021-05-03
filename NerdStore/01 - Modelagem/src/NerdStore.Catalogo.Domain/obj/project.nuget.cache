@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dapo5qr6u9w7KGV/m6JOyWRB29IM45gXEoPTGhHnq1OLoUAFD+8iLVwhxt6VdihlnihGUbRdDakPaEBKSTbc0A==",
+  "dgSpecHash": "0GeKKNv1PbwOhI5ghb4e/w/MxQzUHaY7m5yXhjA0gu8KMguda9KB2t36wliMDwifp6SeKZZmwWKlcgm/ZBW+vg==",
   "success": true,
-  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
+  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],

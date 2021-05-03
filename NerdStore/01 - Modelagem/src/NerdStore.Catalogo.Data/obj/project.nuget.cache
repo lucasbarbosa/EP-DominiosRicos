@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6FiQu3NmduzAInMzSS4spB+lWGKjfuMatGwP/PMJX15qCorYA6sLTshx/y0K/frI+8iIcx8UY0KfXUJEDj5Cg==",
+  "dgSpecHash": "DcV7r11KmmVpcL8NXHDqwMo9bz0OVprIL4VcNY/YaAY+yxJw1FRfreKhYbqfu0FHzUpvbkrSXVCbiFTJiy1qmw==",
   "success": true,
-  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XI3pEt6Ow8Em0d6v04essG3YBAH4WQO7l1iGXeDeo+c8cQa+KG7i+gRo3/NyoVmH2pvSyuN0n7rMtumDS3taiw==",
+  "dgSpecHash": "tmLk0aaU5ixHWjwbeQSctBJz9ASOqqIFbmYyzCKkPEayLNRxnQPrj7u1o1kVUOwMmimSYaKDCl9BEsAhXYN5DQ==",
   "success": true,
-  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
+  "projectFilePath": "C:\\_Lucas.Teixeira.Files_OLD\\TestsProjects\\EduardoPires\\Modelagem de Domínios Ricos\\EP-DominiosRicos\\NerdStore\\01 - Modelagem\\src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
